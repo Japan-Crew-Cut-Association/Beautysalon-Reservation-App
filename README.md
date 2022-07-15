@@ -1,13 +1,13 @@
 
-# Name（嗜み"たしなみ"）
+# Name（嗜"たしなみ"）
  
-"嗜み"は美容室向け予約アプリです。
+"嗜"は美容室向け予約アプリです。
 煩雑な予約システムにイライラしているそこのアナタ。
 ビジネスチャンスです。
 
 # DEMO
 
-
+![customer](https://user-images.githubusercontent.com/100478703/179183292-5a0625a1-cc00-448a-87a0-b2ea32f598b2.png)
 
 "hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
 
@@ -76,5 +76,3 @@ URL
 * 作成者：Japan-Crew-Cut-Associatio
 * 所属:全日本角刈り協会
  
-# License
-
