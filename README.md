@@ -7,10 +7,10 @@
 
 # DEMO
 
-![customer](https://user-images.githubusercontent.com/100478703/179183292-5a0625a1-cc00-448a-87a0-b2ea32f598b2.png)
+## Customer demo
+![Customer](https://user-images.githubusercontent.com/100478703/179184478-328f8e55-2b6d-4671-8643-c300181fc0a4.png)
 
-"hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
-
+## Clerk demo
  
 # Features
  
