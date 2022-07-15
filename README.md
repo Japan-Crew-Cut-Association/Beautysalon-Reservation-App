@@ -1,43 +1,71 @@
 
-# Name（嗜み~たしなみ~）
+# Name（嗜み"たしなみ"）
  
 "嗜み"は美容室向け予約アプリです。
 煩雑な予約システムにイライラしているそこのアナタ。
 ビジネスチャンスです。
 
 # DEMO
- 
+
+
+
 "hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
 
  
 # Features
  
-"hoge"のセールスポイントや差別化などを説明する
+お客様：「予約機能」に特化した直感的な操作とカット後のイメージが沸く様にAR機能の実装
+オーナー：予約情報を一目で確認できる見た目と各種編集機能（メニュー追加,休日追加等）の追加
  
 # Requirement
- 
-"hoge"を動かすのに必要なライブラリなどを列挙する
- 
-* huga 3.5.2
-* hogehuga 1.0.2
+need　library
+```
+    "@aws-amplify/ui-react": "^3.0.3",
+    "@emotion/react": "^11.9.3",
+    "@emotion/styled": "^11.9.3",
+    "@mui/material": "^5.8.6",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@types/jest": "^27.5.2",
+    "@types/node": "^16.11.41",
+    "@types/react": "^18.0.14",
+    "@types/react-dom": "^18.0.5",
+    "aws-amplify": "^4.3.26",
+    "dayjs": "^1.11.3",
+    "moment": "^2.29.3",
+    "react": "^18.2.0",
+    "react-big-calendar": "^0.40.2",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "5.0.1",
+    "react-table": "^7.8.0",
+    "react-webcam": "^7.0.1",
+    "typescript": "^4.7.4",
+    "web-vitals": "^2.1.4"
+    "@types/mui-datatables": "^3.7.9",
+    "@types/react-big-calendar": "^0.38.0",
+    "@types/react-table": "^7.7.12"
+ ```
  
 # Installation
  
-Requirementで列挙したライブラリなどのインストール方法を説明する
- 
 ```bash
-pip install huga_package
+git clone {url}
+npm install
+(amplifyの設定必要(install,configure,init,add api,push))
 ```
  
 # Usage
  
 DEMOの実行方法など、"hoge"の基本的な使い方を説明する
  
+Local environment
 ```bash
-git clone https://github.com/hoge/~
-cd examples
-python demo.py
+npm run start
 ```
+URL
+///////////////////amplifyのURLを貼る
  
 # Note
  
@@ -45,17 +73,8 @@ python demo.py
  
 # Author
  
-作成情報を列挙する
- 
-* 作成者
-* 所属
-* E-mail
+* 作成者：Japan-Crew-Cut-Associatio
+* 所属:全日本角刈り協会
  
 # License
-ライセンスを明示する
- 
-"hoge" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
- 
-社内向けなら社外秘であることを明示してる
- 
-"hoge" is Confidential.
+
